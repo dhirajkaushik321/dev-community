@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.b0d12fdf.css",
-    "main.js": "/react-gh-pages/static/js/main.630bca04.js",
-    "static/media/showcase.jpg": "/react-gh-pages/static/media/showcase.33c7a31be966664a6454.jpg",
-    "static/media/Spinner.gif": "/react-gh-pages/static/media/Spinner.5d28481ab0847a160c72.gif",
-    "index.html": "/react-gh-pages/index.html",
-    "main.b0d12fdf.css.map": "/react-gh-pages/static/css/main.b0d12fdf.css.map",
-    "main.630bca04.js.map": "/react-gh-pages/static/js/main.630bca04.js.map"
+    "main.css": "/dev-community/static/css/main.9a420455.css",
+    "main.js": "/dev-community/static/js/main.516df1bd.js",
+    "static/media/showcase.jpg": "/dev-community/static/media/showcase.33c7a31be966664a6454.jpg",
+    "static/media/Spinner.gif": "/dev-community/static/media/Spinner.5d28481ab0847a160c72.gif",
+    "index.html": "/dev-community/index.html",
+    "main.9a420455.css.map": "/dev-community/static/css/main.9a420455.css.map",
+    "main.516df1bd.js.map": "/dev-community/static/js/main.516df1bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0d12fdf.css",
-    "static/js/main.630bca04.js"
+    "static/css/main.9a420455.css",
+    "static/js/main.516df1bd.js"
   ]
 }
